@@ -1,0 +1,50 @@
+.influencerImg {
+    width: 344.12px;
+    height: 287.81px;
+}
+
+.influencerRow .newlaunchIconsLeft {
+    gap: 2px;
+}
+
+.influencerRow .newLaunchDetailDiv {
+    padding: 20px;
+    margin-left: -85px
+}
+
+.influencerRow .Peopleimg {
+    width: auto;
+    height: auto;
+}
+
+.influencerRow .newLunchiconsContainer {
+    margin-bottom: 5px;
+}
+
+.influencerRow .newLaunchDesc1 {
+    font-size: 12px;
+}
+
+.influencerRow .newLaunchDesc2 {
+    font-size: 10px;
+}
+
+.influencerRow .newlaunchIconsLeft div {
+    flex-direction: row;
+    display: flex;
+    gap: 5px;
+    align-items: center;
+    margin-right: 5px;
+}
+.influencerRow .discoverBtn{
+font-size: 9px;
+padding: 5px;
+}
+
+.influencerRow .newLaunchIconsImg{
+    width: 15px;
+    height: 15px;
+}
+.influencerRow .spanIconRight{
+    font-size: 10px;
+}

@@ -1,0 +1,22 @@
+.trendingContainer{
+    max-width: 100% !important;
+    padding: 0;
+}
+.trendingDetailDiv{
+    padding: 20px !important;
+    width: 95% !important;
+}
+.mySlider{
+    opacity: 0.5;
+}
+.react-stacked-center-carousel-slide-0 .mySlider{ 
+opacity: 1;
+}
+.trendingDetailDiv .newLaunchIconsImg {
+    width: 15px;
+    height: 15px;
+}
+
+.trendingDetailDiv .newlaunchIconsLeft{
+gap : 5px
+}

@@ -1,0 +1,48 @@
+.otherCardsContainer{
+    margin-top: 50px;
+    width: 100% !important;
+    background-color: #BE0006;
+}
+.otherCardsrow{
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.otherCard{
+    background-color: #fff;
+    border-radius: 20px;
+    justify-content: center;
+    height: 150px;
+    width: 322px;
+    padding: 0px 21px;
+}
+.otherCardImgDiv{
+    background-color: #3C4852;
+    border-radius: 100%;
+    width: 50px;
+    height: 50px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.otherCard:hover .otherCardDesc1{
+    color :#BE0006
+}
+.otherCard:hover .otherCardImgDiv{
+    background-color: #BE0006;
+}
+.otherCardDesc1{
+    font-size: 15px;
+    font-weight: 700;
+    color:#3C4852;
+}
+.otherCardDesc2{
+    font-size: 12px;
+    font-weight: 300;
+    color:#000;
+}
+.otherCardImg{
+    width: 25px;
+}

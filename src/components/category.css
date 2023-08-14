@@ -1,0 +1,41 @@
+.categoryContainer{
+    max-width: 100% !important;
+}
+.categoryHeading{
+    font-size: 30px;
+    font-weight: 700;
+    color:#3C4852;
+}
+.categoryImage{
+    width: 100%;
+    border-radius: 20px;
+}
+.categoryRow{
+    padding: 30px 150px  !important;
+    margin: 0 auto;
+}
+.categoryImageContainer{
+    position: relative;
+    margin-bottom: 15px;
+}
+.categoryImageContainer h6{
+    font-size: 20px;
+    font-weight: 600;
+    color: #fff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) !important;
+    text-align: center;
+
+}
+.categoryImageContainer::before {
+    content: "";
+    background: rgb(0 0 0 / 50%);
+    height: 100%;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    border-radius: 20px;
+}
+

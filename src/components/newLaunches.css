@@ -1,0 +1,124 @@
+.newLaunchesContainer {
+    max-width: 100% !important;
+
+}
+
+.newLaunchCategoryRow {
+    padding: 30px 150px !important;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+.newLaunchDesc {
+    font-size: 20px;
+    font-weight: 400;
+    color: #303030;
+    justify-content: center;
+    display: flex;
+    text-align: center;
+}
+
+.cardConatiner {
+    background-color: #E5E5E5;
+    padding-bottom: 50px;
+}
+
+.newLaunchImg {
+    width: 100%;
+}
+
+.newLaunchDetailsIcon {
+    margin-top: -57px;
+    margin-left: -13px;
+}
+
+.newLaunchDetailDiv {
+    background-color: #fff;
+    margin-top: -20px;
+    padding: 30px;
+    width: 90%;
+    margin: -20px auto;
+    position: relative;
+    z-index: 1;
+    border-radius: 5px;
+}
+
+.newLaunchDesc1 {
+    font-size: 16px;
+    font-weight: 700;
+    color: #000;
+}
+
+.newLaunchDesc2 {
+    font-size: 12px;
+    font-weight: 300;
+    color: #000;
+}
+
+.Peopleimg {
+    width: 68.66px;
+    height: 30.38px;
+}
+
+.discoverBtn {
+    font-size: 12px;
+    font-weight: 500;
+    color: #3C4852;
+    border: 0.91px solid #3C4852;
+    padding: 10px
+}
+
+.newLunchiconsContainer {
+    justify-content: space-between;
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.newlaunchIconsLeft {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.newLaunchIconsImg {
+    width: 21px;
+    height: 21px;
+}
+
+.spanIconRight {
+    font-size: 12px;
+    font-weight: 400;
+    color: #7D6B7D
+}
+
+.rightSideIconsDiv {
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    background-color: #EFEFEF;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.newlaunchIconsRight {
+    display: flex;
+    justify-content: center;
+    gap: 5px
+}
+
+.moreBtn {
+    border: 1.74px solid #BE0006;
+    background-color: #BE0006;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+    width: 15%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border-radius: 9px;
+    padding: 4px 20px 7px 20px;
+
+}

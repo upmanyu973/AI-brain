@@ -1,0 +1,131 @@
+.footerContainer {
+    background-color: black;
+    /* border: 0px 0px-0px solid #fff; */
+    max-width: 100% !important;
+    padding: 30px 50px !important;
+    margin-top: 20px;
+}
+
+.footerContainer1 {
+    padding: 10px 50px !important;
+}
+
+.subscribeHeading {
+    font-size: 20px;
+    font-weight: 500;
+    color: #fff;
+}
+
+.emaiContainerFooter {
+    position: relative;
+    width: 463px !important;
+    margin-bottom: 30px;
+}
+
+.emailInpFooter {
+    background-color: #495057;
+    border-radius: 50px;
+    width: 100%;
+    height: 40px;
+    padding: 25px;
+    border: 0;
+    /* position: relative; */
+}
+
+.emailArrow {
+    position: absolute;
+    right: 30px;
+    /* width: 50px !important; */
+    height: 36px;
+    top: 7px;
+}
+
+.subHeadingSubscribe {
+    font-size: 14px;
+    font-weight: 500;
+    color: #fff;
+}
+
+.footerColumn1Links {
+    color: #fff;
+    font-size: 12px;
+    font-weight: 500;
+    text-decoration: none;
+    list-style-type: circle;
+}
+
+.footerColumn1Links li {
+    margin-bottom: 10px;
+}
+
+.borderLineFooter {
+    width: 100%;
+    margin: 0 auto;
+    border: 1px solid #FFFFFF
+}
+
+.copyrightPara {
+    font-size: 10px;
+    font-weight: 500;
+    color: #fff;
+    margin-bottom: 0;
+    padding-bottom: 10px;
+}
+
+.LaunchProdBtn {
+    background-color: transparent;
+    color: #fff;
+    border: 3px solid #FFFFFF;
+    font-size: 15px;
+    font-weight: 500;
+    padding: 10px;
+    width: 30% !important;
+    border-radius: 10px;
+}
+
+.socialIcons {
+    justify-content: flex-start;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-top: 15px;
+}
+
+.socialIconsImg1 {
+    width: 25px;
+}
+
+.socialIconsImg2 {
+    width: 25px;
+}
+
+.socialIconsImg3 {
+    width: 25px;
+}
+
+.socialIconsImg4 {
+    width: 12px;
+}
+
+.socialIconsImg5 {
+    width: 25px;
+}
+
+.followHeading {
+    font-size: 17px;
+    font-weight: 400;
+    color: #fff;
+    margin-top: 30px;
+}
+.footerColumn2descDiv{
+    justify-content: flex-start;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    margin-top: 30px;
+}
+.footerColumn2Desc{
+    font-size: 14px;
+    font-weight: 500;
+    color: #fff;
+}
